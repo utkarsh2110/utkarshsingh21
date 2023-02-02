@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **A Restaurant's Website for college project**
 
-- 🌱 I’m currently learning **Kotlin, DSA in C++ and Android Dev**
+- 🌱 I’m currently learning **HTML5, CSS3, JS,Kotlin, DSA in C++ and Android Dev**
 
 - 📫 How to reach me **msutkarsh@outlook.com**
 
