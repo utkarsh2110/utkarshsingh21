@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshsingh21&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshsingh21" /> </p>
 
-- 🔭 I’m currently working on **A Restaurant's Website for college project**
+- 🔭 I’m currently working on **A Restaurant's Website - <a href="https://github.com/UTKARSHSINGH21/RESTO">RESTO** </a>
 
 - 🌱 I’m currently learning **HTML5, CSS3, JS,Kotlin, DSA in C++ and Android Dev**
 
