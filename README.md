@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **A Restaurant's Website - <a href="https://github.com/UTKARSHSINGH21/RESTO">RESTO** </a>
 
-- 🌱 I’m currently learning **HTML5, CSS3, JS,Kotlin, DSA in C++ and Android Dev**
+- 🌱 I’m currently learning **NodeJS, MongoDB and  DSA in C++**
 
 - 📫 How to reach me **msutkarsh@outlook.com**
 
